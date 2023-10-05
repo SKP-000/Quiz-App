@@ -102,7 +102,7 @@
     "concurrently": "^5.0.0",
     "cross-env": "^6.0.3",
     "devtron": "^1.4.0",
-    "electron": "^7.2.4",
+    "electron": "^22.3.25",
     "electron-builder": "^21.2.0",
     "electron-devtools-installer": "^2.2.4",
     "electron-react-devtools": "^0.5.3",
